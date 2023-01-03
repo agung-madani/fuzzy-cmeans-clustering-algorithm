@@ -1,6 +1,8 @@
 from fcm import fuzzycmeans
 import pandas as pd
 
+# Datasets taken from https://www.kaggle.com/datasets/rakeshrau/social-network-ads
+
 data = pd.read_csv('Social_Network_Ads.csv')
 data.head(10)
 
