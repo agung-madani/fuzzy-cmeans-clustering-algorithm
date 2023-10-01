@@ -1,4 +1,5 @@
-# Fuzzy C-means Clustering Algorithm
+# "Enhanced Fuzzy C-Means (FCM) Clustering Algorithm Implementation in Python"
+
 This is an implementation of the Fuzzy C-Means (FCM) clustering algorithm in Python; .py and .ipynb file extension. The FCM algorithm is an extension of the traditional K-Means clustering algorithm that allows each data point to belong to multiple clusters with different degrees of membership.
 ### Requirements
 * pandas
